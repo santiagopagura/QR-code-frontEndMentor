@@ -12,7 +12,6 @@ Esta es una solución al [Desafío de componentes de código QR en Frontend Ment
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -27,7 +26,6 @@ Esta es una solución al [Desafío de componentes de código QR en Frontend Ment
 
 - [Resumen](#resumen)
   - [Captura de pantalla](#screenshot)
-  - [Enlaces](#links)
 - [Mi proceso](#my-process)
   - [Construido con](#built-with)
   - [Lo que aprendí](#what-i-learned)
@@ -63,14 +61,10 @@ Screenshot / Captura de pantalla
  320px
 ![](./design/work-completed-screenshot/screenshot-320px.png)
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### Link 
 
-
-- URL de la solución: [Añada aquí la URL de la solución](https://your-solution-url.com)
-- URL del sitio en vivo: [Añadir URL del sitio en vivo aquí](https://your-live-site-url.com)
+- Link web ( https://santiagopagura.github.io/QR-code-frontEndMentor/ )
 
 ## My process
 
