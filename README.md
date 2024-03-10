@@ -22,6 +22,9 @@ Esta es una solución al [Desafío de componentes de código QR en Frontend Ment
 - [Acknowledgments](#acknowledgments)
 
 
+
+
+
 - [Resumen](#resumen)
   - [Captura de pantalla](#screenshot)
   - [Enlaces](#links)
@@ -105,7 +108,7 @@ En el futuro, me gustaría mejorar mis conocimientos en animaciones CSS para añ
 ## Author
 
 - LinkedIn - (www.linkedin.com/in/spagura)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@santiagopagura](https://www.frontendmentor.io/profile/yourusername)
 
 
 
